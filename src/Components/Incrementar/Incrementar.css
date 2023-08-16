@@ -1,0 +1,10 @@
+.button-incrementar {
+    font-size: 2rem;
+    padding: 10px 20px;
+    background-color: black;
+    color: white;
+    border: none;
+    cursor: pointer;
+    margin: 5px;
+    border-radius: 5px;
+}

@@ -1,0 +1,29 @@
+.contador {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    width: 500px;
+    height: 300px;
+    border-radius: 10px;
+    background-color: #999999;
+  }
+  
+  .nome-app {
+    font-size: 3rem;
+    margin: 15px 0;
+    color: #ffffff;
+  }
+
+  .container {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    width: 400px;
+    gap: 10px;
+  }
+  
+  .count {
+    font-size: 4rem;
+    color: #ffffff;
+  }
